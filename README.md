@@ -58,18 +58,13 @@ Posso dizer que desde minha formação em Arquitetura e especialização em BIM 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" >
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" >
 </div>
+<br>
  
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimemartins)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimemartins&layout=compact)
 
 
-
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimemartins&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimemartins&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
