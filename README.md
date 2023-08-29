@@ -1,6 +1,6 @@
 ### Quem sou eu? 👋
 
-Olá, meu nome é Aimê Martins, natural de Campina Grande, Paraíba. Sou Arquiteta e Urbanista com especialização em Modelagem da Informação da Construção (BIM) e formada pela Trybe em Desenvolvimento Web Full Stack! <br>
+Olá, meu nome é __Aimê Martins__, natural de Campina Grande, Paraíba. Sou Arquiteta e Urbanista com especialização em Modelagem da Informação da Construção (BIM) e formada pela Trybe em __Desenvolvimento Web Full Stack__! <br>
 <br>
 Posso dizer que desde minha formação em Arquitetura e especialização em BIM eu já me interessava por tecnologia, inovação e como o desenvolvimento de softwares podia colaborar com a melhoria da vida de pessoas e profissionais. Agora, formada em Desenvolvimento Web, adquiri habilidades para colaborar não somente com o setor da construção civil (que é minha paixão) mas também com vários outros setores do mercado de trabalho.
 
